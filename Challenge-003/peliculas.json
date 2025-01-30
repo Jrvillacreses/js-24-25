@@ -1,0 +1,182 @@
+[
+    {
+        "titulo": "El Padrino",
+        "genero": "Crimen",
+        "año": 1972,
+        "imagen": "https://pics.filmaffinity.com/El_padrino-993414333-large.jpg"
+    },
+    {
+        "titulo": "Pulp Fiction",
+        "genero": "Crimen",
+        "año": 1994,
+        "imagen": "https://pics.filmaffinity.com/pulp_fiction-560953306-large.jpg"
+    },
+    {
+        "titulo": "Forrest Gump",
+        "genero": "Drama",
+        "año": 1994,
+        "imagen": "https://pics.filmaffinity.com/Forrest_Gump-166768337-large.jpg"
+    },
+    {
+        "titulo": "El Caballero Oscuro",
+        "genero": "Acción",
+        "año": 2008,
+        "imagen": "https://pics.filmaffinity.com/el_caballero_oscuro-528360904-large.jpg"
+    },
+    {
+        "titulo": "La Lista de Schindler",
+        "genero": "Drama",
+        "año": 1993,
+        "imagen": "https://pics.filmaffinity.com/la_lista_de_schindler-991615190-large.jpg"
+    },
+    {
+        "titulo": "El Señor de los Anillos: El Retorno del Rey",
+        "genero": "Fantasía",
+        "año": 2003,
+        "imagen": "https://pics.filmaffinity.com/el_senor_de_los_anillos_el_retorno_del_rey-459534014-large.jpg"
+    },
+    {
+        "titulo": "Star Wars: Episodio V - El Imperio Contraataca",
+        "genero": "Ciencia Ficción",
+        "año": 1980,
+        "imagen": "https://pics.filmaffinity.com/star_wars_episode_v_the_empire_strikes_back-302455646-large.jpg"
+    },
+    {
+        "titulo": "El Bueno, el Feo y el Malo",
+        "genero": "Western",
+        "año": 1966,
+        "imagen": "https://pics.filmaffinity.com/El_bueno_el_feo_y_el_malo-814212586-large.jpg"
+    },
+    {
+        "titulo": "El Club de la Lucha",
+        "genero": "Drama",
+        "año": 1999,
+        "imagen": "https://pics.filmaffinity.com/fight_club-320750671-mmed.jpg"
+    },
+    {
+        "titulo": "Inception",
+        "genero": "Ciencia Ficción",
+        "año": 2010,
+        "imagen": "https://pics.filmaffinity.com/inception-652954101-mmed.jpg"
+    },
+    {
+        "titulo": "Interstellar",
+        "genero": "Ciencia Ficción",
+        "año": 2014,
+        "imagen": "https://pics.filmaffinity.com/interstellar-366875261-mmed.jpg"
+    },
+    {
+        "titulo": "La Vida es Bella",
+        "genero": "Drama",
+        "año": 1997,
+        "imagen": "https://pics.filmaffinity.com/la_vita_e_bella-646167341-large.jpg"
+    },
+    {
+        "titulo": "Gladiator",
+        "genero": "Acción",
+        "año": 2000,
+        "imagen": "https://pics.filmaffinity.com/gladiator-851958258-large.jpg"
+    },
+    {
+        "titulo": "Titanic",
+        "genero": "Romance",
+        "año": 1997,
+        "imagen": "https://pics.filmaffinity.com/titanic-321994924-large.jpg"
+    },
+    {
+        "titulo": "Coco",
+        "genero": "Animación",
+        "año": 2017,
+        "imagen": "https://pics.filmaffinity.com/coco-155051069-large.jpg"
+    },
+    {
+        "titulo": "Shrek",
+        "genero": "Animación",
+        "año": 2001,
+        "imagen": "https://pics.filmaffinity.com/shrek-903764423-large.jpg"
+    },
+    {
+        "titulo": "Jurassic Park",
+        "genero": "Ciencia Ficción",
+        "año": 1993,
+        "imagen": "https://pics.filmaffinity.com/jurassic_park-187298880-large.jpg"
+    },
+    {
+        "titulo": "Los Vengadores",
+        "genero": "Acción",
+        "año": 2012,
+        "imagen": "https://pics.filmaffinity.com/the_avengers-439499921-large.jpg"
+    },
+    {
+        "titulo": "El Rey León",
+        "genero": "Animación",
+        "año": 1994,
+        "imagen": "https://pics.filmaffinity.com/the_lion_king-983881776-large.jpg"
+    },
+    {
+        "titulo": "Matrix",
+        "genero": "Ciencia Ficción",
+        "año": 1999,
+        "imagen": "https://pics.filmaffinity.com/the_matrix-155050517-large.jpg"
+    },
+    {
+        "titulo": "Parasite",
+        "genero": "Drama",
+        "año": 2019,
+        "imagen": "https://pics.filmaffinity.com/gisaengchung-432616131-large.jpg"
+    },
+    {
+        "titulo": "Django Desencadenado",
+        "genero": "Western",
+        "año": 2012,
+        "imagen": "https://pics.filmaffinity.com/django_unchained-956246347-large.jpg"
+    },
+    {
+        "titulo": "Frozen",
+        "genero": "Animación",
+        "año": 2013,
+        "imagen": "https://pics.filmaffinity.com/frozen-680009505-large.jpg"
+    },
+    {
+        "titulo": "V de Vendetta",
+        "genero": "Acción",
+        "año": 2005,
+        "imagen": "https://pics.filmaffinity.com/v_for_vendetta-296729466-large.jpg"
+    },
+    {
+        "titulo": "Wall-E",
+        "genero": "Animación",
+        "año": 2008,
+        "imagen": "https://pics.filmaffinity.com/walloe-973488527-large.jpg"
+    },
+    {
+        "titulo": "Whiplash",
+        "genero": "Drama",
+        "año": 2014,
+        "imagen": "https://pics.filmaffinity.com/whiplash-344887410-large.jpg"
+    },
+    {
+        "titulo": "La La Land",
+        "genero": "Musical",
+        "año": 2016,
+        "imagen": "https://pics.filmaffinity.com/la_la_land-262021831-large.jpg"
+    },
+    {
+        "titulo": "El Pianista",
+        "genero": "Drama",
+        "año": 2002,
+        "imagen": "https://pics.filmaffinity.com/the_pianist_le_pianiste-978132965-large.jpg"
+    },
+    {
+        "titulo": "Toy Story",
+        "genero": "Animación",
+        "año": 1995,
+        "imagen": "https://pics.filmaffinity.com/toy_story-626273371-large.jpg"
+    },
+    {
+        "titulo": "Spider-Man: No Way Home",
+        "genero": "Acción",
+        "año": 2021,
+        "imagen": "https://pics.filmaffinity.com/spider_man_no_way_home-642739124-large.jpg"
+    }
+]

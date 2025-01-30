@@ -1,0 +1,153 @@
+[
+    {
+      "titulo": "El Rey León",
+      "año": 1994,
+      "genero": "Animación"
+    },
+    {
+      "titulo": "Matrix",
+      "año": 1999,
+      "genero": "Ciencia Ficción"
+    },
+    {
+      "titulo": "Inception",
+      "año": 2010,
+      "genero": "Acción"
+    },
+    {
+      "titulo": "Interstellar",
+      "año": 2014,
+      "genero": "Ciencia Ficción"
+    },
+    {
+      "titulo": "Parasite",
+      "año": 2019,
+      "genero": "Drama"
+    },
+    {
+      "titulo": "Gladiador",
+      "año": 2000,
+      "genero": "Acción"
+    },
+    {
+      "titulo": "Forrest Gump",
+      "año": 1994,
+      "genero": "Drama"
+    },
+    {
+      "titulo": "La La Land",
+      "año": 2016,
+      "genero": "Musical"
+    },
+    {
+      "titulo": "The Godfather",
+      "año": 1972,
+      "genero": "Crimen"
+    },
+    {
+      "titulo": "The Dark Knight",
+      "año": 2008,
+      "genero": "Acción"
+    },
+    {
+      "titulo": "Pulp Fiction",
+      "año": 1994,
+      "genero": "Crimen"
+    },
+    {
+      "titulo": "Avengers: Endgame",
+      "año": 2019,
+      "genero": "Acción"
+    },
+    {
+      "titulo": "Titanic",
+      "año": 1997,
+      "genero": "Romance"
+    },
+    {
+      "titulo": "Coco",
+      "año": 2017,
+      "genero": "Animación"
+    },
+    {
+      "titulo": "El Hobbit: Un viaje inesperado",
+      "año": 2012,
+      "genero": "Fantasía"
+    },
+    {
+      "titulo": "Star Wars: Episodio IV",
+      "año": 1977,
+      "genero": "Ciencia Ficción"
+    },
+    {
+      "titulo": "Joker",
+      "año": 2019,
+      "genero": "Drama"
+    },
+    {
+      "titulo": "Toy Story",
+      "año": 1995,
+      "genero": "Animación"
+    },
+    {
+      "titulo": "El Gran Hotel Budapest",
+      "año": 2014,
+      "genero": "Comedia"
+    },
+    {
+      "titulo": "Mad Max: Fury Road",
+      "año": 2015,
+      "genero": "Acción"
+    },
+    {
+      "titulo": "Amélie",
+      "año": 2001,
+      "genero": "Comedia Romántica"
+    },
+    {
+      "titulo": "La Lista de Schindler",
+      "año": 1993,
+      "genero": "Drama"
+    },
+    {
+      "titulo": "Up",
+      "año": 2009,
+      "genero": "Animación"
+    },
+    {
+      "titulo": "WALL-E",
+      "año": 2008,
+      "genero": "Animación"
+    },
+    {
+      "titulo": "Whiplash",
+      "año": 2014,
+      "genero": "Drama"
+    },
+    {
+      "titulo": "E.T. El Extraterrestre",
+      "año": 1982,
+      "genero": "Fantasía"
+    },
+    {
+      "titulo": "Blade Runner",
+      "año": 1982,
+      "genero": "Ciencia Ficción"
+    },
+    {
+      "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+      "año": 2001,
+      "genero": "Fantasía"
+    },
+    {
+      "titulo": "Shrek",
+      "año": 2001,
+      "genero": "Animación"
+    },
+    {
+      "titulo": "Frozen",
+      "año": 2013,
+      "genero": "Animación"
+    }
+  ]
+  

@@ -1,0 +1,68 @@
+[
+    {
+      "titulo": "El Rey León",
+      "año": 1994,
+      "genero": "Animación"
+    },
+    {
+      "titulo": "Matrix",
+      "año": 1999,
+      "genero": "Ciencia Ficción"
+    },
+    {
+      "titulo": "Inception",
+      "año": 2010,
+      "genero": "Acción"
+    },
+    {
+        "titulo": "El Rey León",
+        "año": 1994,
+        "genero": "Animación"
+      },
+      {
+        "titulo": "Matrix",
+        "año": 1999,
+        "genero": "Ciencia Ficción"
+      },
+      {
+        "titulo": "Inception",
+        "año": 2010,
+        "genero": "Acción"
+      },
+      {
+        "titulo": "Titanic",
+        "año": 1997,
+        "genero": "Drama"
+      },
+      {
+        "titulo": "Avengers: Endgame",
+        "año": 2019,
+        "genero": "Acción"
+      },
+      {
+        "titulo": "Toy Story",
+        "año": 1995,
+        "genero": "Animación"
+      },
+      {
+        "titulo": "La La Land",
+        "año": 2016,
+        "genero": "Musical"
+      },
+      {
+        "titulo": "The Godfather",
+        "año": 1972,
+        "genero": "Crimen"
+      },
+      {
+        "titulo": "Parasite",
+        "año": 2019,
+        "genero": "Thriller"
+      },
+      {
+        "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+        "año": 2001,
+        "genero": "Fantasía"
+      }
+  ]
+  

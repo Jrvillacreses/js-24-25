@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Películas y JSON</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+    </style>
+</head>
+<body>
+  <header>
+    <h1>MENÚ NETFLIX</h1>
+  </header>
+
+  <main>
+    <section id="filtros">
+      <label for="genero">Filtrar por género:</label>
+      <select id="genero">
+        <option value="todos">Todos</option>
+      </select>
+      <div id="accesos-rapidos">
+        <!-- Botones para géneros se generarán dinámicamente -->
+      </div>
+    </section>
+
+    <section id="listado-peliculas">
+      <table>
+        <thead>
+          <tr>
+            <th>Título</th>
+            <th>Género</th>
+          </tr>
+        </thead>
+        <tbody id="peliculas">
+          <!-- Películas serán insertadas aquí -->
+        </tbody>
+      </table>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

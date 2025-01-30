@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <script>
+        function comprobarLogin(){
+            var email = document.getElementById("email").value;
+            var password = document.getElementById("password").value;
+            console.log(email);
+            console.log(password);
+            if(email==""){
+                alert("El campo email esta vacio");
+            }else if(password==""){
+                alert("El campo password esta vacio");
+            }else{
+                alert("Login correcto");
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>PRIMERA FUNCION</h1>
+    <h4>Bienvenido</h4>
+    <label for="email">Email </label><input type="email" id="email" placeholder="Introduce tu email">
+    <label for="password">Password </label><input type="password" id="password">
+    <input type="button" value="Login" onclick="comprobarLogin()">
+</body>
+</html>

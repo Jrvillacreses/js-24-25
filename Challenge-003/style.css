@@ -1,0 +1,127 @@
+/* General */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* Negro para el fondo */
+    color: #f4f4f4; /* Blanco suave para el texto */
+}
+
+/* Header */
+header {
+    background-color: #ff0000; /* Rojo para el encabezado */
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+#logo{
+    width: 10em;
+}
+
+/* Footer */
+footer {
+    background-color: #202020; /* Gris oscuro para el pie de página */
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    color: #f4f4f4;
+}
+
+#titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5em;
+    color: black;
+}
+
+/* Controles */
+.controls {
+    margin: 10px auto;
+    text-align: center;
+}
+
+button, select, input {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button {
+    background-color: #ff0000; /* Fondo rojo */
+    color: white;
+}
+
+button:hover {
+    background-color: #cc0000; /* Rojo más oscuro al pasar el ratón */
+}
+
+select, input {
+    width: calc(100% - 20px);
+    max-width: 400px;
+    padding: 10px;
+    border: 1px solid #ff0000;
+    background-color: #202020; /* Fondo gris oscuro */
+    color: white;
+}
+
+/* Contenedor de Películas */
+.peliculas {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 15px;
+    margin: 20px auto;
+    max-width: 1200px;
+    padding: 10px;
+}
+
+/* Tarjetas de Películas */
+.peliculas .pelicula {
+    background-color: #202020; /* Fondo gris oscuro */
+    border: 1px solid #ff0000; /* Borde rojo */
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+
+.peliculas .pelicula img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.peliculas .pelicula h3 {
+    margin: 10px 0 5px;
+    font-size: 1.2rem;
+    color: #ff0000;
+}
+
+.peliculas .pelicula p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    button, select, input {
+        width: 100%;
+    }
+}

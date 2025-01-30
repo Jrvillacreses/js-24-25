@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <h1>Películas por Género</h1>
+
+    <!-- Botones para cada género -->
+    <button onclick="cargarPeliculasPorGenero('Acción')">Acción</button>
+    <button onclick="cargarPeliculasPorGenero('Crimen')">Crimen</button>
+    <button onclick="cargarPeliculasPorGenero('Fantasía')">Fantasía</button>
+    <button onclick="cargarPeliculasPorGenero('Drama')">Drama</button>
+    <button onclick="cargarPeliculasPorGenero('Romance')">Romance</button>
+    <button onclick="cargarPeliculasPorGenero('Ciencia ficción')">Ciencia Ficción</button>
+
+    <br><br>
+
+    <!-- Botón para cargar todas las películas -->
+    <button onclick="cargarPeliculas()">Mostrar Todas las Películas</button>
+
+    <br><br>
+
+    <!-- Tabla para mostrar las películas -->
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Título</th>
+                <th>Director</th>
+                <th>Año</th>
+                <th>Género</th>
+            </tr>
+        </thead>
+        <tbody id="peliculasTabla">
+            <!-- Aquí se llenarán las películas dinámicamente -->
+        </tbody>
+    </table>
+</body>
+</html>

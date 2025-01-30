@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafío con Películas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <img src="logo.webp" alt="Logo" id="logo">
+        <h1 id="titulo">2.AM CLUB</h1>
+    </header>
+
+    <!-- Controles -->
+    <main>
+        <div class="controls">
+            <select id="filtro-genero">
+                <option value="">Todos los géneros</option>
+            </select>
+            <button id="ordenar-asc">Ordenar por Año (Asc)</button>
+            <button id="ordenar-desc">Ordenar por Año (Desc)</button>
+        </div>
+
+        <div class="controls">
+            <input type="text" id="buscar-titulo" placeholder="Buscar por título">
+            <button id="buscar-boton">Buscar</button>
+        </div>
+
+        <!-- Contenedor de Películas -->
+        <div id="contenedor-peliculas" class="peliculas">
+            <!-- Las películas se cargarán aquí -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Películas Favoritas. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

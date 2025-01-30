@@ -1,0 +1,126 @@
+/* General */
+body {
+    font-family: "Jersey 10", serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #169d77;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+    font-size: 1.5rem;
+}
+
+/* Filtros y botones */
+#filtros {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    background-color: #ccfae5;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+#filtros label {
+    font-weight: bold;
+}
+
+#genero {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: 1px solid  #ccfae5;
+}
+
+#accesos-rapidos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+button {
+    font-family: "Jersey 10", serif;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: #169d77;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+    background-color: #21e1ae;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0 0 5px  #19a37e;
+}
+
+/* Tabla de películas */
+#listado-peliculas {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: #169d77;
+    color: white;
+}
+
+thead th {
+    padding: 1rem;
+    text-align: left;
+}
+
+tbody tr {
+    border-bottom: 1px solid  #ccfae5;
+}
+
+tbody tr:nth-child(even) {
+    background-color:  #ccfae5;
+}
+
+tbody td {
+    padding: 1rem;
+    text-align: left;
+}
+
+tbody tr:hover {
+    background-color: #1de037;
+    transform: scale(1.01);
+    transition: all 0.2s ease-in-out;
+}
+
+/* Responsivo */
+@media (max-width: 600px) {
+    #filtros {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    button, #genero {
+        width: 100%;
+    }
+
+    table {
+        font-size: 0.9rem;
+    }
+}
